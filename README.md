@@ -2,7 +2,7 @@
 
 # Project Overview
 
-**Objective:** Predict delays at departure in Belgium Railway system.
+**Objective:** Predict delays at departure in Belgium Railway System.
 
 **Data:** CSV file
 
